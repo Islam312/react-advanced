@@ -1,0 +1,9 @@
+.MyInput{
+    padding: 10px;
+    margin: 10px;
+    display: block;
+    color: aqua;
+}
+.MyInput.error{
+    background-color: red;
+}
